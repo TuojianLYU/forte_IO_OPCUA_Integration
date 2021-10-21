@@ -1,0 +1,2 @@
+D:/mingw/mingw32/bin/ar.exe qc libforte_stringlist_externals.a 
+D:/mingw/mingw32/bin/ranlib.exe libforte_stringlist_externals.a

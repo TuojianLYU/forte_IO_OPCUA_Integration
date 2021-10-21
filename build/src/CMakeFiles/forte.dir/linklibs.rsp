@@ -1,0 +1,1 @@
+  -LC:/FORTE_dev/open62541/build/bin  -lopen62541 -lcomctl32 -lrpcrt4 -lwinmm -lws2_32 -lversion C:/FORTE_dev/luajit-2.0/src/libluajit-5.1.dll.a -lIphlpapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
