@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "*.scss": "scss",
+        "*.ejs": "html",
+        "*.tpp": "cpp",
+        "thread": "cpp"
+    }
+}
